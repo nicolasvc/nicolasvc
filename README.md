@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏽‍💼 I´m currently working on chiper<br> 🆘 I´m looking to collaborate on anything<br> 📖I´m currently learning jetpack compose and flutter<br>
+🧑🏽‍💼 I´m currently working on Crochet dream<br> 🆘 I´m looking to collaborate on anything<br> 📖I´m currently learning jetpack compose and flutter<br>
 
 
 ## 🌐 Socials:
